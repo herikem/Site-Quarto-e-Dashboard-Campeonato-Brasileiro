@@ -1,1 +1,19 @@
 /* css styles */
+
+.title{
+  color: gray;
+}
+body{
+  background-color: #0d0d0d;
+}
+h5{
+  color: red;
+}
+
+.pbright{
+  color: white;
+}
+
+.titleandimage{
+  text-align: center
+}

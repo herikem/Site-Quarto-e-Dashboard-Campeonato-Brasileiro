@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Site Com Quarto"
+  title: "herikevans"
   navbar:
     left:
       - href: index.qmd
@@ -14,7 +14,7 @@ website:
         text: Dashboard
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 

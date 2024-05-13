@@ -1,7 +1,14 @@
 ---
-title: "Site Com Quarto"
+title: "Bem vindos ao meu site"
 ---
+::: {.titleandimage}
+##### Aqui você descobre até onde vai a toca do coelho.
 
-This is a Quarto website.
+![](morpheu.gif){width=650}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.pbright}
+Veja a melhor análise quantitativa de futebol de toda a UFF clicando em Dashboard.
+
+Aposte na casa!
+:::

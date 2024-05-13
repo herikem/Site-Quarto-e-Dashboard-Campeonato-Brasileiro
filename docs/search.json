@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Site Com Quarto",
+    "title": "Bem vindos ao meu site",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Aqui você descobre até onde vai a toca do coelho.\n\n\n\nVeja a melhor análise quantitativa de futebol de toda a UFF clicando em Dashboard.\nAposte na casa!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Site desenvolvido como trabalho para MBA em Ciêcia de Dados com Quarto."
+    "text": "Site desenvolvido como trabalho para MBA em Ciência de Dados com Quarto.\nFeito por HERIK EVANGELINELIS DE MORAES"
   }
 ]
